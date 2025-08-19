@@ -36,9 +36,7 @@ Desarrollo Versión 1.0
 3 Evasión según permanencia y edad
 
 
-📁[DATOS UTILIZADOS]
-
-Se utilizaron archivos .csv con datos de las siguientes tiendas:
+📁[DATOS UTILIZADOS](#Datos-utilizados)
 
 TelecomX_Data.json
 
