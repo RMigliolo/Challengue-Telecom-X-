@@ -72,7 +72,7 @@ No Requerida
 
 * Como ejecutar el proyecto
   
-  I. Abre el archivo AluraStoreLatam_PI.ipynb en Google Colab
+  I. Abre el archivo TelecomX_LATAM_PF.ipynb en Google Colab
   
   II. ejecuta las celdas para visualizar las operaciones (CTRL + ENTER)
   
