@@ -1,7 +1,7 @@
 # Challengue-Telecom-X-
 Segundo desafío en Data Science
 
-![Uploading BANNER TELECOM X PART 1.png…]()
+<img width="5760" height="1728" alt="BANNER TELECOM X PART 1" src="https://github.com/user-attachments/assets/547a24a6-f0f2-46b6-97fb-374a0ff659e3" />
 
  
 # Challengue-2 ![Static Badge](https://img.shields.io/badge/Versi%C3%B3n-1.0-orange) ![Static Badge](https://img.shields.io/badge/License-No_required-green) ![Static Badge](https://img.shields.io/badge/PYTHON-3.13-orange)
